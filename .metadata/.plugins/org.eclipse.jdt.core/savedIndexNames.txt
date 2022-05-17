@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\global\Downloads\DevopsBasics-master\DevopsBasics-master\.metadata\.plugins\org.eclipse.jdt.core
+2582384556.index
+249774708.index
+3410747755.index
+2709164217.index
+2461411560.index
+1705292383.index
+3930973122.index
+3529985434.index
+818644366.index
+1865797976.index
+1060603009.index
